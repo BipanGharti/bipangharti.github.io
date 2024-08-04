@@ -5,4 +5,9 @@
   Tableau Dashboards :
   https://public.tableau.com/app/profile/bipangharti/vizzes
   
-  PowerBI Dashboards
+  PowerBI Dashboards :
+
+
+  Cognos Analytics :
+
+  Linktree : https://linktr.ee/Bipangharti
